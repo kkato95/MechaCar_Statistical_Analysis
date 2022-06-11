@@ -37,6 +37,16 @@ The variance for Lot3 is 170, which is greater the the 100 psi variance required
 ![Suspension_group_summarize](https://user-images.githubusercontent.com/99375741/173199116-0c4593ca-2678-4b5a-9108-f2dc7e529be7.png)
 
 
+## T-test on Suspension Coils
+Statisticall different from population mean of 1,500
+![suspension_1500](https://user-images.githubusercontent.com/99375741/173200039-ce216099-8090-40f1-918f-bdb8d389410f.png)
 
+Lot 1 - t.test
+![lot1_ttest](https://user-images.githubusercontent.com/99375741/173200043-1916d945-90a4-4f9c-ab28-460186ca0b4f.png)
 
+Lot 2 - t.test
+![lot2_ttest](https://user-images.githubusercontent.com/99375741/173200045-b7010db6-6a95-4101-a362-cdeeffd34c65.png)
+
+Lot 3 - t.test
+![lot3_ttest](https://user-images.githubusercontent.com/99375741/173200048-f7135d1d-0dd0-487d-8e87-a1c65ba62245.png)
 
