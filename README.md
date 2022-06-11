@@ -30,10 +30,10 @@ Does the current manufacturing data meet this design specification for all manuf
 
 The variance for Lot3 is 170, which is greater the the 100 psi variance required to meet specifications. Lot1 and Lot2 both fall well below the 100 psi variance, indicating they fall under the threshold.
 
-PSI data summarized by mean, median, variance and sd
+####PSI data summarized by mean, median, variance and sd
 ![total_summary_df](https://user-images.githubusercontent.com/99375741/173199108-d48c0d14-bc8c-4959-a646-c9d3596f5d81.png)
 
-# PSI data is grouped by manufacturing lot and summarized mean, median, variance and sd
+#### PSI data is grouped by manufacturing lot and summarized mean, median, variance and sd
 ![Suspension_group_summarize](https://user-images.githubusercontent.com/99375741/173199116-0c4593ca-2678-4b5a-9108-f2dc7e529be7.png)
 
 
