@@ -4,10 +4,10 @@
 Our analysis is designed to explore the correlation between our independent variable mpg, and 6 dependent variables.
 
 #### 6 Dependent Variables:
-Vehicle Length
-Vehicle Weight
-Spoiler Angle
-Ground Clearance
+ - Vehicle Length
+ - Vehicle Weight
+ - Spoiler Angle
+ - Ground Clearance
 
 1. Which variables/coefficients provided a non-random amount of variance to the mpg values in the dataset?
   When observing the summary statistics, we can see vehicle length and ground clearance have a very small Pr(>|t|) causing these variables to statistically significant.   Another way to express the conclusion is to say the vehicle length and ground clearance have an effect on the fuel efficiency.
