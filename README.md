@@ -50,3 +50,24 @@ Lot 2 - t.test
 Lot 3 - t.test
 ![lot3_ttest](https://user-images.githubusercontent.com/99375741/173200048-f7135d1d-0dd0-487d-8e87-a1c65ba62245.png)
 
+
+## Study Design: MechaCar vs Competition
+
+What metric or metrics are you going to test?
+In the statistical study, we would study the correlation in the top speed of various car manufacturers, with metric such as, vehicle's aerodynamic drag, distrance from road to front bumper, number of pistons,  size of the tires.
+
+What is the null hypothesis or alternative hypothesis?
+The null hypothesis says the speed of the car will not change depending on the the dependent variables.
+The aternative hypothesis say the speed of the car will change based on dependent variable.
+
+What statistical test would you use to test the hypothesis? And why?
+I would use multiple regression to find the relationship between my 4 dependent variables and the speed of the car. I can also determine if the model is statistically significant based on the r-sqaured value.
+
+What data is needed to run the statistical test?
+The data required to complete the statistical test is the top speed of each vehicle, the force of drag on vehicle, hight of the bumber from the road, and the size of the tires and rims.
+
+
+
+
+
+
