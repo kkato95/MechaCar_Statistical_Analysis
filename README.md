@@ -39,15 +39,19 @@ The variance for Lot3 is 170, which is greater the the 100 psi variance required
 
 ## T-test on Suspension Coils
 Statisticall different from population mean of 1,500
+If the population has a mean of 1,500 PSI, the model is not statisticall significant due to a p-value of 0.06028 and do not have enough evidence to reject the null hypothesis.
 ![suspension_1500](https://user-images.githubusercontent.com/99375741/173200039-ce216099-8090-40f1-918f-bdb8d389410f.png)
 
 Lot 1 - t.test
+Manunfacturing Lot 1 has a p-value of 1. The model is not statistically significant.
 ![lot1_ttest](https://user-images.githubusercontent.com/99375741/173200043-1916d945-90a4-4f9c-ab28-460186ca0b4f.png)
 
 Lot 2 - t.test
+Manunfacturing Lot 2 has a p-value of 0.6072. The model is not statistically significant.
 ![lot2_ttest](https://user-images.githubusercontent.com/99375741/173200045-b7010db6-6a95-4101-a362-cdeeffd34c65.png)
 
 Lot 3 - t.test
+Manunfacturing Lot 3 has a p-value of 0.04168. The model is statistically significant and we can reject the null hypothesis.
 ![lot3_ttest](https://user-images.githubusercontent.com/99375741/173200048-f7135d1d-0dd0-487d-8e87-a1c65ba62245.png)
 
 
